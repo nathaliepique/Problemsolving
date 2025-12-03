@@ -12,3 +12,8 @@ class Solution(object):
             i += 2
 
         return nums[-1]
+    
+    """
+    Problemet kan løses med XOR sammenligning for å oppnå O(n) og konstant plassav O(1)
+    To Do:
+    """
